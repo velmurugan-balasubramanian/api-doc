@@ -1,0 +1,9 @@
+{
+  "endpoints": [
+    {
+      "id": "/user/:id",
+      "content": "Fuck you george"
+    }
+  ],
+  "title": "Haha"
+}
