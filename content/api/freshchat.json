@@ -9,5 +9,16 @@
       "content": "hahahahahah"
     }
   ],
-  "title": "Haha"
+  "title": "Haha",
+  "endpoint": [
+    {
+      "path": [
+        {
+          "content": "this is employee description ",
+          "id": "get"
+        }
+      ],
+      "sample": "/employees"
+    }
+  ]
 }
