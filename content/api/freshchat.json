@@ -3,6 +3,10 @@
     {
       "id": "/user/:id",
       "content": "Fuck you george"
+    },
+    {
+      "id": "/user/",
+      "content": "hahahahahah"
     }
   ],
   "title": "Haha"
