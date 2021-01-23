@@ -15,7 +15,7 @@
       "path": [
         {
           "content": "this is employee description ",
-          "id": "/employees"
+          "id": "get"
         }
       ],
       "sample": "/employees"
