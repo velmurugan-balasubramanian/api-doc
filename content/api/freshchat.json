@@ -1,7 +1,6 @@
 {
   "endpoints": [
     {
-      "id": "/user/:id",
       "content": "This is a description of employee's endpoint. ",
       "verb": [
         {
@@ -16,16 +15,5 @@
       "endpoint": "/employees"
     }
   ],
-  "title": "Freshteam API ",
-  "endpoint": [
-    {
-      "path": [
-        {
-          "content": "this is employee description ",
-          "id": "get"
-        }
-      ],
-      "sample": "/employees"
-    }
-  ]
+  "title": "Freshteam API "
 }
