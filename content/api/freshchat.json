@@ -2,14 +2,21 @@
   "endpoints": [
     {
       "id": "/user/:id",
-      "content": "Fuck you george"
-    },
-    {
-      "id": "/user/",
-      "content": "hahahahahah"
+      "content": "This is a description of employee's endpoint.",
+      "verb": [
+        {
+          "verbName": "get",
+          "content": "This is the description for get all employees "
+        },
+        {
+          "verbName": "post",
+          "content": "This is a description for post employees"
+        }
+      ],
+      "endpoint": "/employees"
     }
   ],
-  "title": "Haha",
+  "title": "Freshteam API",
   "endpoint": [
     {
       "path": [
