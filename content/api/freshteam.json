@@ -1,4 +1,15 @@
 {
-  "endpoints": [],
+  "endpoints": [
+    {
+      "endpoint": "/users",
+      "content": "this is a description for content",
+      "verb": [
+        {
+          "verbName": "get",
+          "content": "this is get"
+        }
+      ]
+    }
+  ],
   "title": "Sample title"
 }
