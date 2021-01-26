@@ -7,6 +7,10 @@
         {
           "verbName": "get",
           "content": "this is get"
+        },
+        {
+          "verbName": "post",
+          "content": "this is post"
         }
       ]
     }
